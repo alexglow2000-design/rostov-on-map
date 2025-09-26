@@ -1,0 +1,1 @@
+import{r,j as t,L as a}from"./index-Dsvp09Oi.js";const e="_button_13ruz_1",u="_link_13ruz_25",s={button:e,link:u},i=r.memo(({children:n,type:o})=>t.jsx("button",{type:o,className:s.button,children:t.jsx(a,{className:s.link,to:"/#map-section",children:n})}));export{i as B};
